@@ -21,10 +21,16 @@ This ToDo App allows users to manage their daily tasks effectively. Built using 
 
 ## Technologies Used
 
-- **Flask:** A micro web framework in Python for creating the web application.
-- **MySQL:** A relational database management system used to store user data and tasks.
-- **HTML/CSS:** For structuring and styling the front-end user interface.
-- **Bootstrap:** (Optional) For responsive and modern UI components.
+![Flask Icon](https://img.icons8.com/ios-filled/50/000000/flask.png)  **Flask**
+
+ - A micro web framework in Python for creating the web application.
+
+![MySQL Icon](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)  **MySQL**
+ - A relational database management system used to store user data and tasks.
+
+![HTML Icon](https://img.icons8.com/color/50/000000/html-5.png) **HTML**
+![CSS Icon](https://img.icons8.com/color/50/000000/css3.png)  **CSS**
+ - For structuring and styling the front-end user interface.
 
 
 
