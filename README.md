@@ -22,7 +22,7 @@ This ToDo App allows users to manage their daily tasks effectively. Built using 
 ## Technologies Used
 
 **Backend:Flask**
-![Flask Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/flask.png)  
+![Flask Icon](https://img.icons8.com/ios-filled/50/000000/flask.png)
  - A micro web framework in Python for creating the web application.
    
  **Database:MySQL**
