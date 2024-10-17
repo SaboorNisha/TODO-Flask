@@ -5,7 +5,7 @@ This ToDo App allows users to manage their daily tasks effectively. Built using 
 
 ---
 
-## Features
+### Features
 
 - **Add Tasks:** ![Add Task Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/add.png)  
 
