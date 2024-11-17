@@ -1,11 +1,11 @@
 # ToDo App ![ToDo Icon](https://img.icons8.com/fluency-systems-filled/50/ffffff/todo-list.png)
 
-## Overview
+## Overview..
 This ToDo App allows users to manage their daily tasks effectively. Built using **Flask**, **MySQL**, and **HTML**, it provides features such as task addition, deletion, editing, and user authentication.
 
 ---
 
-### Features
+### Features..
 
 - **Add Tasks:** ![Add Task Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/add.png)  
 
@@ -22,7 +22,8 @@ This ToDo App allows users to manage their daily tasks effectively. Built using 
 
 ---
 
-## Technologies Used
+## Technologies Used..
+
 
 **Backend:Flask**
 ![Flask Icon](https://img.icons8.com/ios-filled/50/000000/flask.png)
