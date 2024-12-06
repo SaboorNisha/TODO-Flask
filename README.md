@@ -9,7 +9,7 @@ This ToDo App allows users to manage their daily tasks effectively. Built using 
 
 - **Add Tasks:** ![Add Task Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/add.png)  
 
- -> Use the "Add Task" button to create new tasks. Enter the task details and submit.
+ -> Use the "Add Task" button to create new tasks. Enter the task details or task description then you can submit.
 - **Edit Tasks:** ![Edit Icon](https://img.icons8.com/fluency-systems-filled/48/ffffff/edit.png) 
  
  -> Click the "Edit" button next to a task to modify its details.
